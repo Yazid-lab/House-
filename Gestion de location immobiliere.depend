@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610449846 source:c:\users\yazid\documents\enit\mp prog proc\gestion de location immobiliere\main.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1610445195 c:\users\yazid\documents\enit\mp prog proc\gestion de location immobiliere\location.h
+
+1610447793 source:c:\users\yazid\documents\enit\mp prog proc\gestion de location immobiliere\location.c
+	"location.h"
+	<stdio.h>
+	<string.h>
+
